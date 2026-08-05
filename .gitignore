@@ -1,0 +1,30 @@
+# Local env and secrets
+**/.env
+!**/.env.example
+**/id_rsa*
+**/*_rsa
+**/*.pem
+
+# Python
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+*.so
+
+# Inference / data artifacts
+dataset/
+result/
+results/
+trajectory/
+
+# Training outputs
+training/RL/output/
+training/RL/output_rl_abseeker_archived/
+training/RL/log/
+training/RL/mpi_hostfile
+training/SFT/checkpoints*/
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
