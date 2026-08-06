@@ -7,7 +7,7 @@
   <a href="https://arxiv.org/abs/2608.05102">
     <img src="https://img.shields.io/badge/Arxiv-ABSeeker-b31b1b" alt="Arxiv · ABSeeker"/>
   </a>
-  <a href="https://huggingface.co/PolarSeeker/ABSeeker-4B">
+  <a href="https://huggingface.co/PolarSeeker/ABSeeker-4B-RL">
     <img src="https://img.shields.io/badge/HuggingFace-ABSeeker__4B-yellow" alt="HF Model"/>
   </a>
 </div>
