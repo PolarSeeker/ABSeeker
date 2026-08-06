@@ -4,7 +4,7 @@
   <a href="https://github.com/PolarSeeker/ABSeeker">
     <img src="https://img.shields.io/badge/GitHub-ABSeeker-24292f" alt="GitHub · ABSeeker"/>
   </a>
-  <a href="#citation">
+  <a href="https://arxiv.org/abs/2608.05102">
     <img src="https://img.shields.io/badge/Arxiv-ABSeeker-b31b1b" alt="Arxiv · ABSeeker"/>
   </a>
   <a href="https://huggingface.co/PolarSeeker/ABSeeker-4B">
@@ -339,7 +339,7 @@ If you find ABSeeker useful in your research, please consider citing:
 }
 ```
 
-Paper: TBD
+Paper: https://arxiv.org/abs/2608.05102
 
 Model: [ABSeeker-4B](https://huggingface.co/PolarSeeker/ABSeeker-4B)
 
