@@ -11,8 +11,8 @@
 *.egg-info/
 *.so
 
-# Inference / data artifacts
-dataset/
+# Inference / data artifacts (repo-root only; not verl source modules)
+/dataset/
 result/
 results/
 trajectory/
