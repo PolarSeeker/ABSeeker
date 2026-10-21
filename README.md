@@ -331,10 +331,10 @@ ABSeeker/
 If you find ABSeeker useful in your research, please consider citing:
 
 ```bibtex
-@article{abseeker2026,
+@article{lu2026abseeker,
   title={ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment},
-  author={TBD},
-  journal={arXiv preprint arXiv:TBD},
+  author={Lu, Yijun and Ye, Rui and Wang, Jiajun and Du, Yuwen and Jin, Tian and Liu, Songhua and Chen, Siheng},
+  journal={arXiv preprint arXiv:2608.05102},
   year={2026}
 }
 ```
